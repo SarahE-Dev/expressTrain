@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    width: 30vw;
+    height: 70vh;
+    object-fit: cover;
+    
+}
+
+.imageBox{
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+    align-items: center;
+    background-color: black;
+}
+
+h1 {
+    color: blueviolet;
+    background-color: magenta;
+}
